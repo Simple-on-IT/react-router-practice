@@ -28,5 +28,5 @@
 * `npm run dev` - сборка для разработки
 
 ## Дополнительные материалы:
-Документация - https://swiperjs.com/demos  
-Видео - 
+Документация - https://reactrouter.com/home  
+Видео - https://youtube.com/shorts/EspQ9frBXLo?feature=share
