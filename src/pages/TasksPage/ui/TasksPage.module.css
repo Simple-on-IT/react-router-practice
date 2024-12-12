@@ -1,0 +1,39 @@
+.tasksContainer {
+  padding: 20px;
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #dce7f0;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.tasksList {
+  list-style: none;
+  padding: 0;
+}
+
+.taskItem {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+  border: 1px solid #ececec;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: left;
+}
+
+.backLink {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.backLink:hover {
+  background-color: #0056b3;
+}
